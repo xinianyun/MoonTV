@@ -73,6 +73,18 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "api-ukuapi88-com": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷影视"
+    },
+    "www-hongniuzy-com": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "iqiyizyapi-com": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
